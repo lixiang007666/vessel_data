@@ -33,5 +33,6 @@
 
 | Dataset       | Type   |   Number of Images | Links                                                                                                                                         |
 |:--------------|:-------|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------|
-| LiVS         | Computed tomography (CT)    |                 532 volumes (30 slices) | [LiVS](https://ieee-dataport.org/documents/liver-vessel-segmentation)                                                                 |
-
+| LiVS         | Computed tomography (CT)    |                 532 volumes (15984 slices) | [LiVS](https://ieee-dataport.org/documents/liver-vessel-segmentation)                                                                 |
+| 3Dircadb-01         | CT    |                 20 volumes (2823 slices) | [3Dircadb-01](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/)                                                                 |
+| MSD         | CT    |                 443 volumes (21120 slices) | [MSD](https://www.nature.com/articles/s41467-022-30695-9)                                                                 |
