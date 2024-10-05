@@ -42,11 +42,11 @@
 
 | Dataset       | Type   |   Number of Images | Links                                                                                                                                         |
 |:--------------|:-------|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------|
-| IXI-Guys         | Magnetic Resonance Angiography (MRA)    |                 532 volumes (15984 slices) | ours                                                                 |
-| IXI-HH         | MRA    |                 20 volumes (2823 slices) | [3Dircadb-01](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/)                                                                 |
-| IXI-IOP         | MRA    |                 443 volumes (21120 slices) | [MSD](https://www.nature.com/articles/s41467-022-30695-9)                                                                 |
-| ICBM         | MRA    |                 443 volumes (21120 slices) | [MSD](https://www.nature.com/articles/s41467-022-30695-9)                                                                 |
-| TubeTK-CoW         | MRA    |                 443 volumes (21120 slices) | [MSD](https://www.nature.com/articles/s41467-022-30695-9)                                                                 |
-| LocH1         | MRA    |                 443 volumes (21120 slices) | [MSD](https://www.nature.com/articles/s41467-022-30695-9)                                                                 |
+| IXI-Guys         | Magnetic Resonance Angiography (MRA)    |                 60 volumes (6000 slices) | [IXI-Guys](https://ieeexplore.ieee.org/document/10599360)                                                                 |
+| IXI-HH         | MRA    |                 60 volumes (6000 slices) | [IXI-HH](https://ieeexplore.ieee.org/document/10599360)                                                                 |
+| IXI-IOP         | MRA    |                 50 volumes (4600 slices) | [IXI-IOP](https://ieeexplore.ieee.org/document/10599360)                                                                 |
+| ICBM         | MRA    |                 50 volumes (10000 slices) | [ICBM](https://ieeexplore.ieee.org/document/10599360)                                                                 |
+| TubeTK-CoW         | MRA    |                 50 volumes (6400 slices) | [TubeTK-CoW](https://ieeexplore.ieee.org/document/10599360)                                                                 |
+| LocH1         | MRA    |                 27 volumes (3267 slices) | [LocH1](https://ieeexplore.ieee.org/document/10599360)                                                                 |
 
 
