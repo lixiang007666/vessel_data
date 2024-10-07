@@ -60,6 +60,8 @@
 | PARSE         | Computed tomographic pulmonary angiography (CTPA)    |                 100 volumes (30300 slices) | PARSE(https://parse2022.grand-challenge.org/)                                                                 |
 | ISICDM         | CTPA    |                 10 volumes (2040 slices) | ISICDM(https://pubmed.ncbi.nlm.nih.gov/34421004/)                                                                 |
 | ISICDM         | CT    |                 15 volumes (3060 slices) | ISICDM(https://pubmed.ncbi.nlm.nih.gov/34421004/)                                                                 |
+| ATM         | CT    |                 300 volumes (47100 slices) | ATM(https://atm22.grand-challenge.org/)                                                                 |
+
 
 ## 心血管
 
