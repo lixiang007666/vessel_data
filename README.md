@@ -72,3 +72,15 @@
 | ASCA         | Cardiac computed tomography angiography (CCTA)    |                 60 volumes (3840 slices) | ASCA(https://asoca.grand-challenge.org/)                                                                 |
 | ARCADE         | X-ray angiography (XA)    |           1500 images       | ARCADE(https://zenodo.org/records/8386059)                                                                 |
 | ImageCAS         | CCTA    |                  1000 volumes (128000 slices) | ImageCAS(https://www.sciencedirect.com/science/article/abs/pii/S0895611123001052)           
+
+
+
+| 部位     | 3D体数据数量      | 数据集                  | 切片数量         | 2D图像数量           |
+|----------|------------------|------------------------|------------------|----------------------|
+| 眼血管   | 0                | 所有数据集都是2D图像    | -                | 3,513张              |
+| 肝血管   | 995              | LiVS: 532, 3Dircadb-01: 20, MSD: 443 | 39,927张         | -                    |
+| 脑血管   | 487              | IXI-Guys: 60, IXI-HH: 60, IXI-IOP: 50, ICBM: 50, TubeTK (MRI-T1): 100, TubeTK (MRA): 100, LocH1: 27, MIDAS: 20, SMILE-UHURA: 20 | 65,067张         | -                    |
+| 肺血管   | 425              | PARSE: 100, ISICDM (CTPA): 10, ISICDM (CT): 15, ATM: 300 | 82,500张         | -                    |
+| 心血管   | 1,060            | ASCA: 60, ImageCAS: 1,000 | 131,840张       | -                    |
+| 心血管   | -                | ARCADE (XA模态)          | -                | 1,500张              |
+
